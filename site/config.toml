@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "از زندگی و بیت و بایت و..."
   cover = "images/cover.jpg"
   author = "مرتضی ا"
   authorlocation = "Norh Khorasan, Iran"
